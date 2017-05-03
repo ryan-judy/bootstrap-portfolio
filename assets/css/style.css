@@ -110,6 +110,7 @@ footer {
 }
 
 .thumbnail {
+	float: left;
 	width:100%;
 }
 
@@ -143,3 +144,5 @@ footer {
 .btn:active {
     color: white;
 }
+
+
